@@ -50,7 +50,8 @@
             "name": "Software",
             "level": "Cloud",
             "keywords": [
-                "AWS","Azure"
+                "AWS",
+                "Azure"
             ]
         },
         {
@@ -148,8 +149,8 @@
         {
             "name": "Soapbox Mobile",
             "url": "",
-            "startDate": "2006-07",
-            "endDate": "2007-08",
+            "startDate": "2006",
+            "endDate": "2007",
             "position": "Senior Software Engineer",
             "highlights": [
                 "Developed application modules using PHP, JavaScript, and Python with PostgreSQL and MySQL backends for both internal teams and external clients.",
@@ -178,15 +179,9 @@
         },
         {
             "name": "SMS.ac",
-            "startDate": "2005-09",
-            "endDate": "2006-01",
-            "position": "Software Architect"
-        },
-        {
-            "name": "SMS.ac",
-            "startDate": "2004-06",
-            "endDate": "2005-09",
-            "position": "Software Engineer",
+            "startDate": "2004",
+            "endDate": "2006",
+            "position": "Software Engineer (1y) -> Software Architect (6m)",
             "highlights": [
                 "Designed and developed high-traffic web applications in ASP.NET and VBScript, supporting over 200,000 daily users across 40+ load-balanced IIS servers.",
                 "Served as Lead Engineer for the Registration and User Profiles systems, two of the platform’s most heavily used components.",
@@ -197,22 +192,14 @@
         {
             "name": "mCentric SA",
             "location": "Madrid, Spain",
-            "startDate": "2002-11",
-            "endDate": "2004-02",
-            "position": "Technical Lead"
-        },
-        {
-            "name": "mCentric SA",
-            "location": "Madrid, Spain",
-            "startDate": "2000-11",
-            "endDate": "2002-02",
-            "position": "Support Technician",
+            "startDate": "2000",
+            "endDate": "2004",
+            "position": "Support Technician -> Technical Lead",
             "highlights": [
-                "Coordinated development and installation of new services in customer environments.",
-                "Built Web and WAP applications using Java Server Pages running over an Oracle 8 back end.",
-                "Integration and functionality testing of all applications before delivery to the customer.",
-                "Basic maintenance of pre-production and development servers (Solaris 8) in customer facilities.",
-                "Internal Infrastructure tasks including user creation, PC/Network maintenance. (Solaris and Windows)"
+                "Built and tested web and WAP applications using JSP and Oracle 8.",
+                "Coordinated deployments and integration testing in customer environments.",
+                "Provided direct application technical support for large telecommunications clients.",
+                "Performed basic server and network support across Solaris and Windows systems."
             ]
         }
     ]
