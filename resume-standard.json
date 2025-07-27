@@ -50,7 +50,7 @@
             "name": "Software",
             "level": "Cloud",
             "keywords": [
-                "Experience with AWS and Azure"
+                "AWS","Azure"
             ]
         },
         {
@@ -96,54 +96,53 @@
             "url": "https://allvuesystems.com",
             "startDate": "2020",
             "position": "Director, Data Engineering / Senior Principal Architect",
-"highlights": [
-"Directed four cross-functional engineering teams to deliver a modern data platform supporting 60+ client deployments and processing millions of records daily, built on Snowflake, Kafka, TypeScript, and .NET.",
-    "Oversaw the design and delivery of core APIs, ELT pipelines, and integration frameworks supporting both internal products and external client data needs.",
-  "Partnered with product and executive leadership to define platform strategy and roadmap, aligning technical delivery with business goals.",
-  "Instituted engineering best practices across teams, including regular design/code reviews, architectural reviews, and onboarding processes.",
-  "Led evaluation and adoption of third-party tools to enhance development velocity and data pipeline reliability.",
-  "Mentored engineering managers and senior ICs, fostering technical growth, career development, and cross-team collaboration."
-]
+            "highlights": [
+                "Oversaw a cross-functional organization of 30+ engineers, data scientists, and analysts across four teams delivering core data platform and analytics capabilities.",
+                "Led the architecture and delivery of a multi-tenant data platform serving 60+ enterprise clients and processing millions of records daily, built on Snowflake, Kafka, TypeScript, and .NET.",
+                "Designed and built the initial prototype of the data platform to demonstrate feasibility and establish foundational patterns.",
+                "Mentored engineers and managers across teams to help grow leadership skills, improve technical judgment, and build healthy engineering culture.",
+                "Established engineering standards, architectural practices, and a strong code review culture across the data organization.",
+                "Defined roadmaps and technical strategy in partnership with client, product, and executive stakeholders."
+            ]
         },
         {
             "name": "Allvue Systems",
             "url": "https://allvuesystems.com",
             "startDate": "2018",
             "endDate": "2020",
-            "position": "Director, Ops Engineering",
+            "position": "Director, Ops Engineering / Architect",
             "highlights": [
-  "Directed engineering efforts for internal reporting, client dashboards, and platform health monitoring across multiple teams.",
-  "Owned operational tooling including report refresh automation, audit event pipelines, and API telemetry systems, improving observability and issue resolution speed.",
-  "Maintained dbt/Snowflake pipelines supporting internal metrics and client-facing dashboards, ensuring high reliability and timely data delivery.",
-  "Introduced Power BI usage analytics and standardized dashboard templates to improve adoption, maintainability, and performance of reporting tools.",
-  "Led incident reviews and cross-team retrospectives, reducing recurrence of platform issues and improving client satisfaction.",
-  "Collaborated with Product, Support, and Engineering leaders to prioritize platform reliability and end-to-end operational visibility."
-]
+                "Led a team focused on enabling product engineering teams to deploy, manage, and integrate applications through CI/CD pipelines and internal tooling.",
+                "Designed and built internal tools that streamlined onboarding, improved incident response, and automated key operational workflows across the engineering org.",
+                "Deployed and maintained an enterprise-wide telemetry and monitoring solution, supporting consistent observability practices across teams.",
+                "Led a successful org-wide migration to Azure DevOps and Jira, consolidating disparate systems and standardizing build and task tracking processes."
+            ]
         },
         {
-            "name": "Allvue Systems",
+            "name": "Black Mountain Systems",
             "url": "https://allvuesystems.com",
             "startDate": "2016",
             "endDate": "2018",
             "position": "Director Professional Services Engineering",
             "highlights": [
-                "Managed and trained a team of Professional Services Engineers to implement our products.",
-                "Designed and built custom configurations and plugins for our products using C#, XSLT, SQL, XML and XPath.",
-                "Worked directly with clients to help define and drive the direction for implementation of Allvue products and to support and train on new features/configurations.",
-                "Managed cross-client and cross-team resourcing for new and ongoing projects alongside constant flow of escalations from client support teams."
+                "Led multiple teams of Professional Services Engineers responsible for configuring and customizing client deployments of Allvue’s Front Office platform.",
+                "Oversaw hiring, onboarding, and training programs for new engineers focused on SQL, XSLT, XPATH, and .NET, including curriculum development and mentorship processes.",
+                "Established and enforced technical best practices across the Professional Services team, introducing code review standards and reusable solution patterns that improved maintainability and consistency.",
+                "Collaborated directly with clients to gather requirements, shape implementation strategy, and guide them through key product customizations and feature adoption.",
+                "Managed project resourcing across a portfolio of active client implementations, balancing new deployments, escalations, and cross-functional initiatives."
             ]
         },
         {
-            "name": "Allvue Systems",
+            "name": "Black Mountain Systems",
             "url": "https://allvuesystems.com",
             "startDate": "2007",
             "endDate": "2016",
             "position": "Senior Software Engineer",
             "highlights": [
-                "Worked with the founding team to design and build a generic workflow, integration and data management platform used by our clients to manage their portfolio of investments, research investment opportunities, and perform and track trading.",
-                "Built and owned the integration components of the platform allowing connectivity for bi-directional communication with a variety of other systems out-of-the-box and the ability to build custom integrations via plugin.",
-                "Worked directly with existing and prospective clients to understand requirements, define new features and solve problems.",
-                "Trained and mentored new engineers on our technologies and how our clients use our products."
+                "Co-designed and built a robust Front Office Platform using .NET and SQL to support portfolio management, trading, and research workflows.",
+                "Architected and maintained a plugin-based integration framework using a publisher/subscriber model, enabling bi-directional data exchange across external systems.",
+                "Developed core integration logic with XPath, XSLT, and XML for flexible data transformation and automation.",
+                "Mentored engineers in building scalable, client-facing features and contributed to system architecture decisions as the company grew."
             ]
         },
         {
@@ -153,8 +152,8 @@
             "endDate": "2007-08",
             "position": "Senior Software Engineer",
             "highlights": [
-                "Worked with internal and external clients to specify and build new application modules using PHP, JavaScript, and Python running over PostgreSQL and MySQL back-ends.",
-                "Participated in design and implementation of new architecture for high volume text messaging system with an extensive client-facing web front-end."
+                "Developed application modules using PHP, JavaScript, and Python with PostgreSQL and MySQL backends for both internal teams and external clients.",
+                "Co-designed and implemented a scalable architecture for a high-volume SMS delivery platform with a rich client-facing web interface, supporting millions of messages per day."
             ]
         },
         {
@@ -164,8 +163,8 @@
             "endDate": "2006-07",
             "position": "Senior Software Engineer (Contract)",
             "highlights": [
-                "Built out a library of common components for use across applications while migrating legacy applications to new web technologies (ASP.Net 2.0).",
-                "Led a team of software engineers to complete projects from design to implementation to release."
+                "Led a team of engineers in migrating legacy financial applications to ASP.NET 2.0, improving maintainability and performance.",
+                "Developed a reusable library of UI and backend components to standardize and accelerate development across internal web applications."
             ]
         },
         {
@@ -189,10 +188,10 @@
             "endDate": "2005-09",
             "position": "Software Engineer",
             "highlights": [
-                "Primary responsibilities included design and development of web applications in ASP.NET and VBScript running on over 40 Load-Balanced Web Servers (IIS5/6) serving over 200,000 users per day.",
-                "Lead Engineer/Architect for two of our highest traffic applications (Registration and User Profiles)",
-                "Led and Engineered efforts to optimize old code to maximize performance through use of data caching, memory sharing between applications, splitting of applications to new subdomains.",
-                "Responsible for code reviews and ensuring unit testing of all methods accessing the Databases was complete prior to application launch."
+                "Designed and developed high-traffic web applications in ASP.NET and VBScript, supporting over 200,000 daily users across 40+ load-balanced IIS servers.",
+                "Served as Lead Engineer for the Registration and User Profiles systems, two of the platform’s most heavily used components.",
+                "Drove major performance optimization efforts by implementing data caching and subdomain isolation strategies.",
+                "Led code review practices and enforced comprehensive unit testing of all database access methods prior to release."
             ]
         },
         {
