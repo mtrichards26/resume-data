@@ -97,6 +97,7 @@
             "url": "https://allvuesystems.com",
             "startDate": "2020",
             "position": "Director, Data Engineering / Senior Principal Architect",
+            "location": "San Diego, CA",
             "highlights": [
                 "Oversaw a cross-functional organization of 30+ engineers, data scientists, and analysts across four teams delivering core data platform and analytics capabilities.",
                 "Led the architecture and delivery of a multi-tenant data platform serving 60+ enterprise clients and processing millions of records daily, built on Snowflake, Kafka, TypeScript, and .NET.",
@@ -112,6 +113,7 @@
             "startDate": "2018",
             "endDate": "2020",
             "position": "Director, Ops Engineering / Architect",
+            "location": "San Diego, CA",
             "highlights": [
                 "Led a team focused on enabling product engineering teams to deploy, manage, and integrate applications through CI/CD pipelines and internal tooling.",
                 "Designed and built internal tools that streamlined onboarding, improved incident response, and automated key operational workflows across the engineering org.",
@@ -125,6 +127,7 @@
             "startDate": "2016",
             "endDate": "2018",
             "position": "Director Professional Services Engineering",
+            "location": "San Diego, CA",
             "highlights": [
                 "Led multiple teams of Professional Services Engineers responsible for configuring and customizing client deployments of Black Mountain’s Front Office platform.",
                 "Oversaw hiring, onboarding, and training programs for new engineers focused on SQL, XSLT, XPATH, and .NET, including curriculum development and mentorship processes.",
@@ -139,6 +142,7 @@
             "startDate": "2007",
             "endDate": "2016",
             "position": "Senior Software Engineer",
+            "location": "San Diego, CA",
             "highlights": [
                 "Co-designed and built a robust Front Office Platform using .NET and SQL to support portfolio management, trading, and research workflows.",
                 "Architected and maintained a plugin-based integration framework using a publisher/subscriber model, enabling bi-directional data exchange across external systems.",
@@ -152,6 +156,7 @@
             "startDate": "2006",
             "endDate": "2007",
             "position": "Senior Software Engineer",
+            "location": "San Diego, CA",
             "highlights": [
                 "Developed application modules using PHP, JavaScript, and Python with PostgreSQL and MySQL backends for both internal teams and external clients.",
                 "Co-designed and implemented a scalable architecture for a high-volume SMS delivery platform with a rich client-facing web interface, supporting millions of messages per day."
@@ -163,6 +168,7 @@
             "startDate": "2006-04",
             "endDate": "2006-07",
             "position": "Senior Software Engineer (Contract)",
+            "location": "San Diego, CA",
             "highlights": [
                 "Worked with a small team of engineers in migrating legacy financial applications to ASP.NET 2.0, improving maintainability and performance.",
                 "Developed a reusable library of UI and backend components to standardize and accelerate development across internal web applications."
@@ -173,6 +179,7 @@
             "startDate": "2006-01",
             "endDate": "2006-03",
             "position": "Web Developer (Contract)",
+            "location": "San Diego, CA",
             "highlights": [
                 "Built application for new email/web-based marketing campaigns using .NET and SQL Server."
             ]
@@ -182,6 +189,7 @@
             "startDate": "2004",
             "endDate": "2006",
             "position": "Software Engineer (1y) -> Software Architect (6m)",
+            "location": "San Diego, CA",
             "highlights": [
                 "Designed and developed high-traffic web applications in ASP.NET and VBScript, supporting over 200,000 daily users across 40+ load-balanced IIS servers.",
                 "Served as Lead Engineer for the Registration and User Profiles systems, two of the platform’s most heavily used components.",
