@@ -1,3 +1,4 @@
 [
-    {"url": "resume-standard.json", "name":"Resume", "isDefault":true}
+    {"url": "resume-standard.json", "name":"Resume", "isDefault":true},
+    {"url":"resume-allvue.json","name":"Allvue"}
 ]
