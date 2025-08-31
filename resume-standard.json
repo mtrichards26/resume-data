@@ -189,7 +189,10 @@
             "startDate": "2004",
             "endDate": "2006",
             "position": "Software Engineer (1y) -> Software Architect (6m)",
-            "location": "San Diego, CA"
+            "location": "San Diego, CA",
+            "highlights": [
+                "Full-stack Engineer and Architect for a global, mobile-focused social networking site."
+            ]
         },
         {
             "name": "mCentric SA",
@@ -198,10 +201,7 @@
             "endDate": "2004",
             "position": "Support Technician -> Technical Lead",
             "highlights": [
-                "Built and tested web and WAP applications using JSP and Oracle 8.",
-                "Coordinated deployments and integration testing in customer environments.",
-                "Provided direct application technical support for large telecommunications clients.",
-                "Performed basic server and network support across Solaris and Windows systems."
+                "From Technical Support to Technical Lead in 2 years at a small start-up focused on Java applications for telecommunications companies."
             ]
         }
     ]
