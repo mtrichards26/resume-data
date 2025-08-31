@@ -189,13 +189,7 @@
             "startDate": "2004",
             "endDate": "2006",
             "position": "Software Engineer (1y) -> Software Architect (6m)",
-            "location": "San Diego, CA",
-            "highlights": [
-                "Designed and developed high-traffic web applications in ASP.NET and VBScript, supporting over 200,000 daily users across 40+ load-balanced IIS servers.",
-                "Served as Lead Engineer for the Registration and User Profiles systems, two of the platform’s most heavily used components.",
-                "Drove major performance optimization efforts by implementing data caching and subdomain isolation strategies.",
-                "Led code review practices and enforced comprehensive unit testing of all database access methods prior to release."
-            ]
+            "location": "San Diego, CA"
         },
         {
             "name": "mCentric SA",
