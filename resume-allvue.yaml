@@ -1,7 +1,7 @@
 cv:
   name: Matt Richards
   label: Everest Implementation Expert | Software Engineering Leader
-  location: San Diego, CA 92130
+  location: San Diego, CA
   email: mtrichards26@gmail.com
   social_networks:
     - network: LinkedIn
@@ -14,11 +14,10 @@ cv:
       - "Technology leader with 15+ years of experience designing, building, and configuring Allvue's platform for clients of all types and sizes in the alternative asset management space. Deep knowledge of documented and undocumented Everest & Nexius architecture, particularly integration and data layers."
 
     Expertise_&_Client_Impact:
-      - bullet: Deep expertise in Everest’s integration layer and customization approaches (documented and undocumented)
-      - bullet: Designed and delivered integrations across trading, accounting, reporting, and more — including third-party systems such as Bloomberg, S&P, WSO, Geneva, VPM — using APIs, FIX, SFTP, S3, Azure Blob, and custom services
+      - bullet: Trusted advisor to clients on configuration best practices, performance tuning, troubleshooting, and extension patterns
+      - bullet: Designed and delivered integrations across trading, accounting, reporting systems/files, and more — including third-party systems such as Bloomberg, S&P, WSO, Geneva, VPM — using APIs, FIX, SFTP, S3, Azure Blob, and custom services
       - bullet: Led engineering and professional services teams from client-driven design through delivery across dozens of Everest implementations
       - bullet: Transitioned clients from legacy integration patterns to modern API/Streaming delivery, improving reliability and performance
-      - bullet: Trusted advisor to clients on configuration best practices, performance tuning, troubleshooting, and extension patterns
       - bullet: Trained and mentored Allvue engineers and client teams on Everest configuration, integration, and workflow optimization
 
     Professional_Experience:
