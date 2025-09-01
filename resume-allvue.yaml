@@ -1,0 +1,96 @@
+cv:
+  name: Matt Richards
+  label: Everest Implementation Expert | Software Engineering Leader
+  location: San Diego, CA 92130
+  email: mtrichards26@gmail.com
+  social_networks:
+    - network: LinkedIn
+      username: mtrichards
+    - network: GitHub
+      username: mtrichards26
+
+  sections:
+    summary: 
+      - "Technology leader with 15+ years of experience designing, building, and configuring Allvue's platform for clients of all types and sizes in the alternative asset management space. Deep knowledge of documented and undocumented Everest & Nexius architecture, particularly integration and data layers."
+
+    Core_Strengths:
+      - bullet: 15+ years implementing and configuring Everest for alternative asset management clients across many asset types
+      - bullet: Expert knowledge of Everest integration layer and customization approaches
+      - bullet: Productized and custom integrations with trading, risk, accounting, and reporting systems
+      - bullet: "Multiple delivery mechanisms: API, SFTP, S3, FIX, and file-based exchanges"
+      - bullet: Led engineering teams from client-driven design through delivery
+      - bullet: Trained and mentored engineers on Everest configuration and integration
+      - bullet: Familiar with Allvue’s latest products, including the Nexius Data Platform
+
+    Professional_Experience:
+      - position: Director of Data Engineering / Senior Principal Architect
+        company: Allvue Systems
+        location: San Diego, CA
+        start_date: 2020
+        end_date:
+        highlights:
+          - Helped design and architect the Nexius Data Platform, Allvue’s modern data and integration product
+          - Guided engineering teams to deliver scalable data pipelines and APIs integrating Everest with external client systems
+          - Partnered with clients and product teams to define integration requirements for Everest extensions and the broader platform
+
+      - position: Director, Ops Engineering / Architect
+        company: Allvue Systems
+        location: San Diego, CA
+        start_date: 2018
+        end_date: 2020
+        highlights:
+          - Led a team enabling product engineering teams to deploy, manage, and integrate apps via CI/CD and internal tooling
+          - Built internal tools that streamlined client onboarding, incident response, and operational workflows
+          - Drove org-wide migration to Azure DevOps and Jira, standardizing build and task tracking processes
+
+      - position: Director, Professional Services Engineering
+        company: Black Mountain Systems
+        location: San Diego, CA
+        start_date: 2016
+        end_date: 2018
+        highlights:
+          - Led multiple Professional Services teams configuring and customizing Everest client deployments
+          - Built hiring, onboarding, and training programs focused on SQL, XSLT, XPath, and .NET
+          - Established code review standards and reusable solution patterns across Professional Services
+          - Collaborated directly with clients to shape implementation strategy and guide product customization/adoption
+          - Managed project resourcing across a portfolio of client implementations and escalations
+
+      - position: Senior Software Engineer, Everest Platform
+        company: Black Mountain Systems
+        location: San Diego, CA
+        start_date: 2007
+        end_date: 2016
+        highlights:
+          - Co-designed and built a robust Front Office Platform (Everest) using .NET and SQL for portfolio management, trading, and research
+          - Architected and maintained a plugin-based integration framework (pub/sub) for bi-directional data exchange
+          - Developed core integration logic with XPath, XSLT, and XML for flexible transformation and automation
+          - Mentored engineers and contributed to evolving system architecture as the company scaled
+
+    Selected_Client_Impact:
+      - name: Everest Implementations & Integrations
+        organization: Allvue / Black Mountain Systems
+        highlights:
+          - Implemented Everest for dozens of clients of all sizes across the alternative asset management industry, spanning many asset types
+          - Designed integrations for trading, accounting, reporting, and more—consolidating data across platforms
+          - Transitioned clients from legacy patterns to modern API/S3-based delivery, improving reliability and performance
+          - Acted as a trusted advisor on Everest configuration best practices, troubleshooting, and extension patterns
+
+    Technical_Skills:
+      - bullet: "**Platforms:** Everest, Nexius (Allvue Data Platform)"
+      - bullet: "**Integrations:**  Bloomberg, WSO, Geneva, VPM, APIs, FIX, SFTP, S3, Custom Files and Services"
+      - bullet: "**Languages & Tools:** C#/.NET, SQL, XML/XSLT, PowerShell, Python, Snowflake, Azure, AWS"
+      - bullet: "**Focus Areas:** Data integration, Workflow configuration, Performance tuning, Dashboarding, Reporting, Client implementation support"
+
+    Education:
+      - area: Political Science — International Relations
+        degree: BA
+        institution: University of California, San Diego (UCSD)
+        location: La Jolla, CA
+        start_date: 1995
+        end_date: 1999
+  
+design:
+  theme: engineeringclassic
+  page:
+    show_last_updated_date: false
+    show_page_numbering: false
