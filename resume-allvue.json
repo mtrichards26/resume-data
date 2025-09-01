@@ -133,7 +133,7 @@
   "projects": [
     {
       "name": "Everest Implementations",
-      "description": "Implemented Everest for dozens of clients of all sizes across the alternative asset management industry, covering a wide range of asset types and system integrations.",
+      "description": "Configured Everest for dozens of clients of all sizes across the alternative asset management industry, covering a wide range of asset types and system integrations.",
       "highlights": [
         "Designed integrations for trading, accounting, reporting, and more, enabling clients to consolidate data across platforms.",
         "Helped transition clients from legacy integrations to modern API/S3-based delivery, improving reliability and performance.",
