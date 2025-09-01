@@ -13,14 +13,13 @@ cv:
     summary: 
       - "Technology leader with 15+ years of experience designing, building, and configuring Allvue's platform for clients of all types and sizes in the alternative asset management space. Deep knowledge of documented and undocumented Everest & Nexius architecture, particularly integration and data layers."
 
-    Core_Strengths:
-      - bullet: 15+ years implementing and configuring Everest for alternative asset management clients across many asset types
-      - bullet: Expert knowledge of Everest integration layer and customization approaches
-      - bullet: Productized and custom integrations with trading, risk, accounting, and reporting systems
-      - bullet: "Multiple delivery mechanisms: API, SFTP, S3, FIX, and file-based exchanges"
-      - bullet: Led engineering teams from client-driven design through delivery
-      - bullet: Trained and mentored engineers on Everest configuration and integration
-      - bullet: Familiar with Allvue’s latest products, including the Nexius Data Platform
+    Expertise_&_Client_Impact:
+      - bullet: Deep expertise in Everest’s integration layer and customization approaches (documented and undocumented)
+      - bullet: Designed and delivered integrations across trading, accounting, reporting, and more — including third-party systems such as Bloomberg, S&P, WSO, Geneva, VPM — using APIs, FIX, SFTP, S3, Azure Blob, and custom services
+      - bullet: Led engineering and professional services teams from client-driven design through delivery across dozens of Everest implementations
+      - bullet: Transitioned clients from legacy integration patterns to modern API/Streaming delivery, improving reliability and performance
+      - bullet: Trusted advisor to clients on configuration best practices, performance tuning, troubleshooting, and extension patterns
+      - bullet: Trained and mentored Allvue engineers and client teams on Everest configuration, integration, and workflow optimization
 
     Professional_Experience:
       - position: Director of Data Engineering / Senior Principal Architect
@@ -66,18 +65,9 @@ cv:
           - Developed core integration logic with XPath, XSLT, and XML for flexible transformation and automation
           - Mentored engineers and contributed to evolving system architecture as the company scaled
 
-    Selected_Client_Impact:
-      - name: Everest Implementations & Integrations
-        organization: Allvue / Black Mountain Systems
-        highlights:
-          - Implemented Everest for dozens of clients of all sizes across the alternative asset management industry, spanning many asset types
-          - Designed integrations for trading, accounting, reporting, and more—consolidating data across platforms
-          - Transitioned clients from legacy patterns to modern API/S3-based delivery, improving reliability and performance
-          - Acted as a trusted advisor on Everest configuration best practices, troubleshooting, and extension patterns
-
     Technical_Skills:
       - bullet: "**Platforms:** Everest, Nexius (Allvue Data Platform)"
-      - bullet: "**Integrations:**  Bloomberg, WSO, Geneva, VPM, APIs, FIX, SFTP, S3, Custom Files and Services"
+      - bullet: "**Integrations:**  Bloomberg, S&P, WSO, Geneva, VPM, APIs, FIX, SFTP, S3, Custom Systems & Files, and more"
       - bullet: "**Languages & Tools:** C#/.NET, SQL, XML/XSLT, PowerShell, Python, Snowflake, Azure, AWS"
       - bullet: "**Focus Areas:** Data integration, Workflow configuration, Performance tuning, Dashboarding, Reporting, Client implementation support"
 
