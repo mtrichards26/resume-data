@@ -67,7 +67,7 @@ cv:
     Technical_Skills:
       - bullet: "**Platforms:** Everest, Nexius (Allvue Data Platform)"
       - bullet: "**Integrations:**  Bloomberg, S&P, WSO, Geneva, VPM, APIs, FIX, SFTP, S3, Custom Systems & Files, and more"
-      - bullet: "**Languages & Tools:** C#/.NET, SQL, XML/XSLT, PowerShell, Python, Snowflake, Azure, AWS"
+      - bullet: "**Languages & Tools:** C#/.NET, Typescript, Node.js, SQL, XML/XSLT, PowerShell, Python, Snowflake, Azure, AWS"
       - bullet: "**Focus Areas:** Data integration, Workflow configuration, Performance tuning, Dashboarding, Reporting, Client implementation support"
 
     Education:
