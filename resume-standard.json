@@ -92,10 +92,23 @@
         }
     ],
     "work": [
+{
+    "name": "TenDelta",
+    "url": "https://tendelta.com",
+    "startDate": "November, 2025",
+    "position": "Senior Solutions Architect",
+    "location": "Remote (San Diego, CA)",
+    "highlights": [
+        "Architect and develop enterprise integrations between business-critical applications using Python, SQL, REST APIs, and Boomi.",
+        "Collaborate with engineering and business stakeholders to design scalable, maintainable integration solutions that improve interoperability and automation.",
+        "Provide technical leadership across multiple engineering teams through architecture guidance, design reviews, code reviews, and engineering best practices."
+    ]
+},        
         {
             "name": "Allvue Systems",
             "url": "https://allvuesystems.com",
             "startDate": "2020",
+            "endDate":"October, 2025"
             "position": "Director, Data Engineering / Senior Principal Architect",
             "location": "San Diego, CA",
             "highlights": [
